@@ -403,6 +403,10 @@
     {
       "packageName": "text",
       "projectFolder": "components/text"
+    },
+    {
+      "packageName": "storybook",
+      "projectFolder": "storybook"
     }
     // {
     //   /**
