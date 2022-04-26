@@ -42,5 +42,5 @@
     "babel-plugin-polyfill-corejs3": "^0.5.2",
     "core-js": "^3.22.2"
   },
-  "dependencies": {}
+  "dependencies": {"button":"workspace:*"}
 }

@@ -83,7 +83,10 @@ importers:
       babel-loader: ^8.2.5
       babel-plugin-macros: ^3.1.0
       babel-plugin-polyfill-corejs3: ^0.5.2
+      button: workspace:*
       core-js: ^3.22.2
+    dependencies:
+      button: link:../components/button
     devDependencies:
       '@babel/core': 7.17.9
       '@babel/plugin-proposal-class-properties': 7.16.7_@babel+core@7.17.9
